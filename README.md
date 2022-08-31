@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **rajkishor6091@gmail.com**
+- 📫 How to reach me **rajkishorbgp8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
