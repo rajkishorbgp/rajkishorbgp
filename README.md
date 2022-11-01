@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/rajkishorbgp" target="blank"><img src="https://img.shields.io/twitter/follow/rajkishorbgp?logo=twitter&style=for-the-badge" alt="rajkishorbgp" /></a> </p>
 
 - 🌱 I’m currently learning **Android developer**
-- 📫 How to reach me **rajkishorbgp8@gmail.com**
+- 📫 How to reach me **rajkishorbgp6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
