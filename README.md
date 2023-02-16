@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭 I’m Currently Preparing For internship.<br>🌱 I’m currently learning **Android developer**.<br>🤔 Working At Software developer.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me **rajkishorbgp6@gmail.com**<br>😄 Pronouns: He/His<br>⚡ Fun fact: National Level Football player & State Level Basketball.
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
 
 
