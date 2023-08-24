@@ -1,33 +1,52 @@
-<h1 align="center">Hi 👋, I'm Raj Kishor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, I'm Raj Kishor 👋</h1>
+<p align="center">
+  <a href="mailto:rajkishorbgp6@gmail.com"><img src="https://img.shields.io/badge/Email-raj%20kishorbgp6%40gmail.com-blue" alt="Email"></a> •
+  <a href="https://linkedin.com/in/rajkishorbgp"><img src="https://img.shields.io/badge/LinkedIn-rajkishorbgp-blue" alt="LinkedIn"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkishorbgp&label=Profile%20views&color=0e75b6&style=flat" alt="rajkishorbgp" /> </p>
+## 📖 About Me
 
-# 💫 About Me:
-
-🔭 I’m Currently Preparing For internship.<br>🌱 I’m currently learning **Android developer**.<br>🤔 Working At Software developer.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me **rajkishorbgp6@gmail.com**<br>⚡ Fun fact: Won first prize in volleyball at district level.
+Passionate Software Engineer with strong problem-solving skills and a knack for efficient coding. Currently pursuing BCA from Meerut Institute of Technology. Enthusiastic about learning and sharing knowledge in the tech domain.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
-## 🌐 Socials:
+## 🔧 Skills
 
-<a href="https://fb.com/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajkishorbgp" height="30" width="40" />
-</a>
-<a href="https://instagram.com/rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajkishorbgp" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/@rajkishorbgp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajkishorbgp" height="30" width="40" />
-</a>
+<ul>
+  <li>Java, C, C++, Python, Kotlin</li>
+  <li>Data Structures & Algorithms, Problem Solving</li>
+  <li>Git & GitHub</li>
+  <li>Android Development</li>
+</ul>
 
-# 💻 Tech Stack:
+## 🎓 Education
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+<ul>
+  <li>BCA | Meerut Institute of Technology, Meerut | Ongoing (2021-2024)</li>
+  <li>XII (BSEB) | TNB College Bhagalpur | 2019-21</li>
+  <li>High School Hazipur Bhagalpur | 2017-19</li>
+</ul>
+
+## 💼 Internships
+
+<p><strong>Topper World</strong> (August - September 2023)</p>
+<ul>
+  <li>Collaborated on Android application development projects.</li>
+  <li>Developed unit converter and to-do applications focusing on user experience.</li>
+  <li>Engaged in regular discussions and learning sessions.</li>
+</ul>
+
+<p><strong>Bharat Intern</strong> (August - September 2023)</p>
+<ul>
+  <li>Engaged in a remote internship program to enhance coding skills.</li>
+  <li>Developed a quiz application as part of a diverse intern team.</li>
+  <li>Gained insights into working in a virtual environment.</li>
+</ul>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rajkishorbgp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rajkishorbgp)
