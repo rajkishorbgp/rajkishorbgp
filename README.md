@@ -43,6 +43,14 @@ Passionate Software Engineer with strong problem-solving skills and a knack for 
   <li>Gained insights into working in a virtual environment.</li>
 </ul>
 
+## 🌟 Aspirations
+
+My ultimate goal is to secure a prominent position in a leading tech company, where I can contribute to cutting-edge projects in the field of AI and technology. Inspired by fictional characters like Iron Man, I aspire to create AI-powered innovations that redefine human-computer interaction and revolutionize the way we use technology.
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rajkishorbgp=anuraghazra&show_icons=true&theme=radical)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rajkishorbgp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
