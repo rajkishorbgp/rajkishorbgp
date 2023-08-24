@@ -8,7 +8,7 @@
 
 Passionate Software Engineer with strong problem-solving skills and a knack for efficient coding. Currently pursuing BCA from Meerut Institute of Technology. Enthusiastic about learning and sharing knowledge in the tech domain.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
 ## 🔧 Skills
 
