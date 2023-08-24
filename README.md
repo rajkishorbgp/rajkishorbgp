@@ -49,7 +49,7 @@ My ultimate goal is to secure a prominent position in a leading tech company, wh
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rajkishorbgp=anuraghazra&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
 
 ## 🏆 GitHub Trophies
 
