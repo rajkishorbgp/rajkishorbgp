@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Raj Kishor 👋</h1>
 <p align="center">
-  <a href="mailto:rajkishorbgp6@gmail.com"><img src="https://img.shields.io/badge/Email-raj%20kishorbgp6%40gmail.com-blue" alt="Email"></a> •
+  <a href="mailto:rajkishorbgp6@gmail.com"><img src="https://img.shields.io/badge/Email-rajkishorbgp6%40gmail.com-blue" alt="Email"></a> •
   <a href="https://linkedin.com/in/rajkishorbgp"><img src="https://img.shields.io/badge/LinkedIn-rajkishorbgp-blue" alt="LinkedIn"></a>
 </p>
 
