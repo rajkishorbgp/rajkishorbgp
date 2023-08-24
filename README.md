@@ -49,7 +49,7 @@ My ultimate goal is to secure a prominent position in a leading tech company, wh
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkishorbgp&show_icons=true&theme=transparent)
 
 ## 🏆 GitHub Trophies
 
