@@ -4,6 +4,8 @@
   <a href="https://linkedin.com/in/rajkishorbgp"><img src="https://img.shields.io/badge/LinkedIn-rajkishorbgp-blue" alt="LinkedIn"></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkishorbgp&label=Profile%20views&color=0e75b6&style=flat" alt="rajkishorbgp" /> </p>
+
 ## 📖 About Me
 
 Passionate Software Engineer with strong problem-solving skills and a knack for efficient coding. Currently pursuing BCA from Meerut Institute of Technology. Enthusiastic about learning and sharing knowledge in the tech domain.
