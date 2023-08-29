@@ -1,3 +1,4 @@
+![binner](https://github.com/rajkishorbgp/my-personal-data-/blob/main/binner/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi there, I'm Raj Kishor 👋</h1>
 <p align="center">
   <a href="mailto:rajkishorbgp6@gmail.com"><img src="https://img.shields.io/badge/Email-rajkishorbgp6%40gmail.com-blue" alt="Email"></a> •
