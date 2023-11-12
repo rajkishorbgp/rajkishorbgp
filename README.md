@@ -1,4 +1,5 @@
 ![binner](https://github.com/rajkishorbgp/my-personal-data-/blob/main/binner/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.jpg)
+
 <h1 align="center">Hi there, I'm Raj Kishor 👋</h1>
 <p align="center">
   <a href="mailto:rajkishorbgp6@gmail.com"><img src="https://img.shields.io/badge/Email-rajkishorbgp6%40gmail.com-blue" alt="Email"></a> •
@@ -9,46 +10,22 @@
 
 ## 📖 About Me
 
-Passionate Software Engineer with strong problem-solving skills and a knack for efficient coding. Currently pursuing BCA from Meerut Institute of Technology. Enthusiastic about learning and sharing knowledge in the tech domain.
+Passionate Android Developer with strong problem-solving skills and a knack for building efficient and user-friendly applications. Currently working as a Freelance Android Developer based in Meerut, Uttar Pradesh, India.
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
 
 ## 🔧 Skills
 
 <ul>
-  <li>Java, C, C++, Python, Kotlin</li>
-  <li>Data Structures & Algorithms, Problem Solving</li>
-  <li>Git & GitHub</li>
-  <li>Android Development</li>
-</ul>
-
-## 🎓 Education
-
-<ul>
-  <li>BCA | Meerut Institute of Technology, Meerut | Ongoing (2021-2024)</li>
-  <li>XII (BSEB) | TNB College Bhagalpur | 2019-21</li>
-  <li>High School Hazipur Bhagalpur | 2017-19</li>
-</ul>
-
-## 💼 Internships
-
-<p><strong>Topper World</strong> (August - September 2023)</p>
-<ul>
-  <li>Collaborated on Android application development projects.</li>
-  <li>Developed unit converter and to-do applications focusing on user experience.</li>
-  <li>Engaged in regular discussions and learning sessions.</li>
-</ul>
-
-<p><strong>Bharat Intern</strong> (August - September 2023)</p>
-<ul>
-  <li>Engaged in a remote internship program to enhance coding skills.</li>
-  <li>Developed a quiz application as part of a diverse intern team.</li>
-  <li>Gained insights into working in a virtual environment.</li>
+  <li>Android Development with Java and Kotlin</li>
+  <li>Strong grasp of Data Structures & Algorithms</li>
+  <li>Version Control with Git & GitHub</li>
+  <li>Problem Solving and Optimization</li>
 </ul>
 
 ## 🌟 Aspirations
 
-My ultimate goal is to secure a prominent position in a leading tech company, where I can contribute to cutting-edge projects in the field of AI and technology. Inspired by fictional characters like Iron Man, I aspire to create AI-powered innovations that redefine human-computer interaction and revolutionize the way we use technology.
+I'm an Android developer with a strong grasp of Java, C, C++, Python, and Kotlin. With practical experience from internships at Bharat Intern and Topperworld, I've honed my skills in app development, focusing on AI/ML and Networking. I excel in creating user-friendly, high-performance apps, and I'm committed to continuous learning. I actively contribute to open-source projects on GitHub, staying updated with industry trends. I'm eager to leverage my expertise in a dynamic team, drive innovation, and deliver exceptional user experiences.
 
 ## 📊 GitHub Stats
 
