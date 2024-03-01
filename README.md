@@ -10,22 +10,17 @@
 
 ## 📖 About Me
 
-Passionate Android Developer with strong problem-solving skills and a knack for building efficient and user-friendly applications. Currently working as a Freelance Android Developer based in Meerut, Uttar Pradesh, India.
+Hello, I'm Raj Kishor, an experienced Android Developer based in Meerut, Uttar Pradesh, India. My journey in the world of app development has been enriched with a robust command of Java, C, C++, Python, and Kotlin.
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
+In my six months as a Freelance Android Developer, I've dedicated myself to creating user-friendly, high-performance apps, specializing in AI/ML and Networking. I've actively contributed to open-source projects on GitHub, staying updated with the latest industry trends.
 
-## 🔧 Skills
+During my tenure at Topperworld, I played a crucial role in developing versatile applications, including a Unit Converter, To-Do, and Quiz application. This hands-on experience sharpened my skills in data analysis, project management, and Android app development.
 
-<ul>
-  <li>Android Development with Java and Kotlin</li>
-  <li>Strong grasp of Data Structures & Algorithms</li>
-  <li>Version Control with Git & GitHub</li>
-  <li>Problem Solving and Optimization</li>
-</ul>
+My commitment to excellence is further highlighted by my internship at Bharat Intern, where I successfully completed projects like a Calculator App, Temperature Converter App, and Quiz App. I've also undergone Android Developer Training with Acmegrade, contributing to the development of a robust e-commerce Android application.
 
-## 🌟 Aspirations
+As a certified Java Developer with DSA expertise from Apna College, I've acquired a strong foundation in programming and problem-solving. Currently pursuing a BCA in Computer Science from CCS University, I am eager to apply my skills and knowledge to exciting projects.
 
-I'm an Android developer with a strong grasp of Java, C, C++, Python, and Kotlin. With practical experience from internships at Bharat Intern and Topperworld, I've honed my skills in app development, focusing on AI/ML and Networking. I excel in creating user-friendly, high-performance apps, and I'm committed to continuous learning. I actively contribute to open-source projects on GitHub, staying updated with industry trends. I'm eager to leverage my expertise in a dynamic team, drive innovation, and deliver exceptional user experiences.
+I'm enthusiastic about driving innovation, delivering exceptional user experiences, and continually learning. Let's connect and explore opportunities to collaborate on exciting projects!
 
 ## 📊 GitHub Stats
 
